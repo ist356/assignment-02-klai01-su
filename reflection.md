@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kavias Lai
+Sudent Email:  klai01@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned how to obtain data from a text file. When tackling the "parse_packaging" function, I learned how to obtain certain parts of data by using split() and then cleaning the data with strip() so that i can be usable for the overall program.
